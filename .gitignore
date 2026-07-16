@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Local temporary data and clones
+features_3_sec.csv
+Repo-for-gtzan-dataset/
+*.log
